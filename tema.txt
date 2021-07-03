@@ -1,0 +1,56 @@
+int global1 = 0;
+char global3 = 'a';
+string global4 = "test";
+bool global5 = true;
+int global6[3] = {1, 2, 3}, nr10 = 2;
+
+const int prim(int nr, int nr2[100][200][300])
+{
+	int nr = 10;
+	for(int i = 2; i <= nr/2; i = i+1 )
+	{
+		if(!!nr%!i == !0 and !!!(!10*5 < !12))
+		{
+			if( nr10 == 0)
+			{
+				int nr11;
+			}
+			else if(i == 0)
+			{
+				int nr11;
+			}
+			return 0;
+		}
+	}
+	return 1;
+}
+
+container test
+{
+	int nr9 = 7;
+	int nr1 = 2;
+	int nr2 = 3*(2+3);
+	int func(int a, int b)
+	{
+    	return nr1;
+    }
+};
+
+int main(int argc, string argv)
+{
+	int val = 5;
+	val = test.nr9;
+	const int test4 = 10;
+	Eval(val+1);
+    float nr3 = 1.2;
+	string text = "abc";
+	bool adev = true + false + 5*3;
+    val = test.func(val, val);
+
+	test.func(val, test.func(test.func(val,val), val));
+	while(val < 100)
+	{
+		nr3 = nr3 + 1;
+	}
+	return 1;
+}
